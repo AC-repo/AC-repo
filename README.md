@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AC-repo
-- 👀 I’m interested in using my personal interests as jump off points for projects in github 
+- 👀 I’m interested in using my personal interests as jump off points for projects in github ie: show ya'll the patterns I'm seeing
 - 🌱 I’m currently learning how to leverage AI tools to assist in my software developent journey
-- 💞️ I’m looking to collaborate on grunt work so I can build a stronger foundation 
-- 📫 You can reach me via email @ achardy224@gmail.com 
 - ⚡ Fun fact: I paint + DJ in Chicago
 <!---
 AC-repo/AC-repo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
