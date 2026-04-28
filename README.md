@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AC-repo
 - 👀 I’m interested in using my personal interests as jump off points for projects in github ie: show ya'll the patterns I'm seeing
-- 🌱 I’m currently learning how to leverage AI tools to assist in my software developent journey [i vibe code and show you cool stuff]
+- 🌱 I’m currently learning how to leverage AI tools to assist in my software development journey [i vibe code and show you cool stuff]
 - ⚡ Fun fact: I paint + DJ in Chicago [ https://audiomack.com/achealsme ]
 
 <!---
